@@ -1,0 +1,55 @@
+{
+    "revenue": {
+        "type": "Revenue",
+        "category": "money",
+        "data": [
+            { "month": "january", "value": 2 },
+            { "month": "february", "value": 4 },
+            { "month": "march", "value": 6 },
+            { "month": "april", "value": 2 },
+            { "month": "may", "value": 8 },
+            { "month": "june", "value": 4 },
+            { "month": "july", "value": 9 }
+        ]
+    },
+    "profits": {
+        "type": "Profits",
+        "category": "money",
+        "data": [
+            { "month": "january", "value": 5 },
+            { "month": "february", "value": 6 },
+            { "month": "march", "value": 7 },
+            { "month": "april", "value": 6 },
+            { "month": "may", "value": 9 },
+            { "month": "june", "value": 2 },
+            { "month": "july", "value": 7 }
+        ]
+    },
+
+    "expenses": {
+        "type": "Expenses",
+        "category": "money",
+        "data": [
+            { "month": "january", "value": 1 },
+            { "month": "february", "value": 2 },
+            { "month": "march", "value": 1 },
+            { "month": "april", "value": 2 },
+            { "month": "may", "value": 2 },
+            { "month": "june", "value": 3 },
+            { "month": "july", "value": 1 }
+        ]
+    },
+    "clients": {
+        "type": "Clients",
+        "category": "people",
+        "data": [
+            { "month": "january", "value": 1 },
+            { "month": "february", "value": 2 },
+            { "month": "march", "value": 3 },
+            { "month": "april", "value": 4 },
+            { "month": "may", "value": 4 },
+            { "month": "june", "value": 4 },
+            { "month": "july", "value": 5 }
+        ]
+    }
+}
